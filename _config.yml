@@ -17,6 +17,8 @@ avatar: https://avatars.githubusercontent.com/u/31756724?s=400&v=4
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Generic GitHub Avatar Profile
 
+excerpt_separator: <!--more-->
+
 # CUSTOMIZE
 #
 # Flags below are optional - customize them if you wish
