@@ -27,4 +27,5 @@ Replace the first row with your own contribution.
 | Mar 5 | https://www.openstreetmap.org/changeset/118143550 | OpenStreet Map feature | I fixed the location of Choongsyn Korean Church (a church I attend) | 
 | Mar 5 | https://www.openstreetmap.org/changeset/118143585 | OpenStreet Map feature | I erased the name from where Choongsyn Korean Church was originally labeled as being |
 | Mar 5 | https://en.wikipedia.org/wiki/Special:Contributions/Phipip | Wikipedia edit | I added a line describing which actor will play as the fictional character Sanji Vinsmoke in an upcoming Netflix TV series. |
-| Mar 8 | https://www.openstreetmap.org/changeset/118245411 | OpenStreet Map feature | I deletted building because it is not in use right now |
+| Mar 8 | https://www.openstreetmap.org/changeset/118245411 | OpenStreet Map feature | I deleted building because it is not in use right now |
+| May 10 | https://www.openstreetmap.org/changeset/120811304 | OpenStreet Map feature | I added a pizza place near my house |
