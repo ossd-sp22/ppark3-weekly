@@ -31,3 +31,4 @@ Replace the first row with your own contribution.
 | May 10 | https://www.openstreetmap.org/changeset/120811304 | OpenStreet Map feature | I added a pizza place near my house |
 | May 10 | https://www.openstreetmap.org/changeset/120812278 | OpenStreet Map feature | I added a Chase bank near my house |
 | May 10 | https://en.wikipedia.org/wiki/Special:Contributions/Phipip | Wikipedia edit | I added a line specifying the name of the choreographer in charge of creating the dance for this BTS song. |
+| May 14 | https://github.com/codinasion/codinasion-programme/pull/561 | Codinasion | I created a hello world Java file for Codinasion to fix a first good issue. |
